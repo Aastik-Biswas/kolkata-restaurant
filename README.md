@@ -1,7 +1,7 @@
 # Zomato Kolkata Restaurant Data Analysis
 
 ## Project Overview
-This is a beginner-friendly exploratory data analysis and machine-learning project based on a Zomato restaurant dataset for Kolkata.
+This is a  exploratory data analysis project based on a Zomato restaurant dataset for Kolkata.
 
 The project focuses on understanding restaurant distribution, cuisine popularity, pricing, ratings, reviews, and service features. It also includes a simple Linear Regression model that estimates the average restaurant cost.
 
@@ -74,13 +74,6 @@ This project demonstrates practical use of:
 - Feature preparation
 - Regression
 - Model evaluation
-
-## Future Improvements
-- Encode cuisine and area categories.
-- Compare multiple regression algorithms.
-- Add restaurant clustering.
-- Build a restaurant recommendation system.
-- Perform text analysis on popular dishes and restaurant descriptions.
 
 ## Files
 - `Zomato_Kolkata_Restaurant_Analysis.ipynb` - complete Colab notebook
